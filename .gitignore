@@ -1,4 +1,4 @@
 *.png
 *.ipynb_checkpoints
-/data/
+/data_/
 /old_coisas/
